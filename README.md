@@ -1,13 +1,14 @@
 # ¡Hi, I'm Vanessa Robledo! 👋  
 
 I am a passionate bilingual web developer with skills in creating digital experiences. My fascination with languages ​​is combined with my love for the tech world, turning web development into an exciting journey of discovery.  
-- About me 🚀
 
-💻 Web developer with experience in technologies such as Java, HTML, CSS, JavaScript, Firebase, among others.
-🌐 Bilingual: fluent in English and Spanish, which allows me to tackle multicultural projects.
-🌟 Passionate about innovation, constant learning, and creating digital experiences that make an impact.
+# - About me 🚀  
 
-I am excited to collaborate and learn more on this exciting technological journey! 🚀
+💻 Web developer with experience in technologies such as Java, HTML, CSS, JavaScript, Firebase, among others.  
+🌐 Bilingual: fluent in English and Spanish, which allows me to tackle multicultural projects.  
+🌟 Passionate about innovation, constant learning, and creating digital experiences that make an impact.  
+
+I am excited to collaborate and learn more on this exciting technological journey! 🚀  
 
 
 ## 🌐 Socials:
